@@ -17,6 +17,6 @@ I'm Matthew, a student at Brigham Young University-Idaho interested in computer 
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/matthew-h-8940ab141/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/matthew-h-8940ab141/) profile.
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
